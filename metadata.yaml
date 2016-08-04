@@ -1,0 +1,37 @@
+_repo: The-Case-of-the-Pocket-Diary-Found-in-the-Snow_1834
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Colbron, Grace Isabel
+    alias: Colbron, Grace I. (Grace Isabel)
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '720'
+    url: http://www.gutenberg.org/2009/agents/720
+creator:
+  author:
+    agent_name: Groner, Auguste
+    aliases:
+    - Kopallik, Auguste
+    - Groner, Augusta
+    birthdate: 1850
+    deathdate: 1929
+    gutenberg_agent_id: '719'
+    url: http://www.gutenberg.org/2009/agents/719
+description: 'In Joe Muller: Detective, Being the Account of Some Adventures in the
+  Professional Experience of a Member of the Imperial Austrian Police'
+gutenberg_issued: '1999-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PT'
+- GITenberg
+title: The Case of the Pocket Diary Found in the Snow
+url: http://www.gutenberg.org/ebooks/1834
